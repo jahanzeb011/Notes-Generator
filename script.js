@@ -3,7 +3,7 @@ const mytextInput = document.getElementById('mytext');
 const responseTextarea = document.getElementById('response');
 const btn = document.querySelector(".button");
 
-const API_KEY = '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';
+const API_KEY = '';
 
 form.addEventListener('submit', async (e) => {
     e.preventDefault();
